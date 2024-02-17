@@ -1,9 +1,9 @@
-# DM-FLOODER
+# 🆕 DM-FLOODER
 This will flood your victims DMS with Discord btos
 
 ---
 
-### Installation
+### ⚙️ Installation
 1. Install [Python 3.11.6](https://www.python.org/downloads/release/python-3116/)
 2. Run `install.bat`
 3. Make Discord bots and enable **Privileged Gateway Intents** at [Discord Developer Portal](https://discord.com/developers/applications)
@@ -12,7 +12,12 @@ This will flood your victims DMS with Discord btos
 
 ---
 
-### Features
+### 📄 Features
 1. Bot command: `dm <user id> <message>` (It will then ask you how many messages you want to send per bot)
 2. When you run `main.py` it will make all the bots online
 3. The bots you created must be in the same server as your victim or it will not work
+
+---
+
+### ⭐ Updates 
+I will be updating this code at 16 stars 
