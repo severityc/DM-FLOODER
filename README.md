@@ -4,7 +4,7 @@
 ---
 
 ### ⚙️ Installation
-1. Install [Python 3.11.6](https://www.python.org/downloads/release/python-3116/)
+1. Install [Python 3.11.6](https://www.python.org/downloads/release/python-3116/) and make sure to add it to path
 2. Run `install.bat`
 3. Make Discord bots and enable **Privileged Gateway Intents** at [Discord Developer Portal](https://discord.com/developers/applications)
 4. Copy the bot tokens of all of the ones you created and paste it in `tokens.txt`
