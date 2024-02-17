@@ -29,6 +29,4 @@ I will be updating this code at 16 stars
 
 ---
 
-<h3 align="center">PREVIEW</h3>
-
 ![image](https://github.com/severityc/DM-FLOODER/assets/158026132/1cb83809-5f45-4a0f-8548-627fc27eb675)
