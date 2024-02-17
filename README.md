@@ -26,3 +26,8 @@
 
 ### ⭐ Updates 
 I will be updating this code at 16 stars 
+
+---
+
+<h3 align="center">PREVIEW</h3>
+![image](https://github.com/severityc/DM-FLOODER/assets/158026132/8f23763d-bb57-43f8-ad12-80e161691e56)
