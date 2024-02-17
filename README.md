@@ -10,12 +10,13 @@
 4. Copy the bot tokens of all of the ones you created and paste it in `tokens.txt`
 5. Run `main.py`
 
+**Note: The bots you created must be in the same server as your victim or it will not work**
+
 ---
 
 ### 📄 Features
 1. Bot command: `dm <user id> <message>` (It will then ask you how many messages you want to send per bot)
-2. When you run `main.py` it will make all the bots online
-3. The bots you created must be in the same server as your victim or it will not work
+2. Bots go online when you run `main.py`
 
 ---
 
