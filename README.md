@@ -25,7 +25,7 @@
 ---
 
 ### ⭐ Updates 
-I will be updating this code at 16 stars 
+I will be updating this code at 16 stars.
 
 ---
 
