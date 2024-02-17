@@ -1,4 +1,4 @@
-# 🆕 DM-FLOODER
+<h1 align="center">DM FLOODER</h1>
 This will flood your victims DMS with Discord btos
 
 ---
