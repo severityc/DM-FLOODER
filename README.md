@@ -1,5 +1,5 @@
 <h1 align="center">DM FLOODER</h1>
-<h1 align="center">This will flood your victim's dms with Discord Bots</h1>
+<h2 align="center">This will flood your victim's dms with Discord Bots</h2>
 
 ---
 
