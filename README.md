@@ -17,16 +17,12 @@
 ### 📄 Features
 1. Bot command: `dm <user id> <message>` (It will then ask you how many messages you want to send per bot)
 2. Bots go online when you run `main.py`
+3. User ID scraping command w/ no delay
 
 ---
 
 ### 📸 Tutorial
 **Watch this tutorial to show you how to use this tool:** https://www.youtube.com/watch?v=ejQ-D06IyWE
-
----
-
-### ⭐ Updates 
-I will be updating this code at 16 stars.
 
 ---
 
