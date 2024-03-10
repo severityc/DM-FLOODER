@@ -1,2 +1,1 @@
-pip install discord
-pip install asyncio
+pip intall requirements.txt
