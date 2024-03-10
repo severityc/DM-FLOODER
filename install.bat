@@ -1,1 +1,1 @@
-pip intall requirements.txt
+pip intall -r requirements.txt
