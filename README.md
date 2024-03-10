@@ -18,6 +18,7 @@
 1. Bot command: `dm <user id> <message>` (It will then ask you how many messages you want to send per bot)
 2. Bots go online when you run `main.py`
 3. User ID scraping command w/ no delay
+4. Mass DM Command
 
 ---
 
