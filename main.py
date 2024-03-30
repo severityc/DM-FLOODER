@@ -109,8 +109,6 @@ async def command_loop(bot):
             if user:
                 await user.send(message)
                 print(f"{Fore.LIGHTBLUE_EX}{datetime.datetime.now().strftime('%H:%M:%S')}{Fore.RESET} Message sent to {user}!")
-                with open('data/logs.txt', 'a') as log_file:
-                    log_file.write(f"{datetime.datetime.now().strftime('%H:%M:%S')} Message sent to {user}!\n")
             else:
                 print("User not found.")
         elif command == "2":
@@ -134,8 +132,6 @@ async def command_loop(bot):
                 for member_id in member_ids:
                     file.write(f"{member_id}\n")
                     print(f"{Fore.LIGHTBLUE_EX}{datetime.datetime.now().strftime('%H:%M:%S')}{Fore.RESET} Scraped user ID: {member_id}")
-                    with open('data/logs.txt', 'a') as log_file:
-                        log_file.write(f"{datetime.datetime.now().strftime('%H:%M:%S')} Scraped user ID: {member_id}\n")
             print("Member IDs have been saved to 'data/ids.txt'")
         elif command == "3":
             message = input(f"{Fore.LIGHTBLUE_EX}{datetime.datetime.now().strftime('%H:%M:%S')}{Fore.RESET}{Style.RESET_ALL} Enter message: ")
@@ -165,8 +161,6 @@ async def command_loop(bot):
                     await user.send(message)
                     await asyncio.sleep(1)
                     print(f"{Fore.LIGHTBLUE_EX}{datetime.datetime.now().strftime('%H:%M:%S')}{Fore.RESET} Message sent to {user}!")
-                    with open('data/logs.txt', 'a') as log_file:
-                        log_file.write(f"{datetime.datetime.now().strftime('%H:%M:%S')} Message sent to {user}!\n")
                 else:
                     print(f"User with ID {member_id} not found.")
             print("Messages sent!")
