@@ -1,5 +1,2 @@
 discord
 asyncio
-pyfiglet
-datetime
-colorama
